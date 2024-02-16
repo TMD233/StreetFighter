@@ -20,4 +20,4 @@
 
 ## Youtubr
 
-(https://www.youtube.com/@streetfighter)
+[Youtube Channel](https://www.youtube.com/@streetfighter)
