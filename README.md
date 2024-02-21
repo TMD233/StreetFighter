@@ -31,7 +31,7 @@ learn and create repositories,sign up for a pypi. org account,Sign up for a gith
     print("Street Fighter!")
 ```
 
-## Youtubr
+## Youtube
 
 [Youtube Channel](https://www.youtube.com/@streetfighter)
 ![](image.png)
