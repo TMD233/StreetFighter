@@ -81,7 +81,7 @@ nav:
     - Report Issues: https://github.com/TMD233/streetfighter/issues
     - Examples:
         - examples/intro.ipynb
-        - examples/test.ipynb
+        - notebook/test.ipynb
     - API Reference:
           - streetfighter module: streetfighter.md
           - common module: common.md
