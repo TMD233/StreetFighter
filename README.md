@@ -9,7 +9,7 @@
 
 
 -   Free software: MIT License
--   Documentation: https://TMD233.github.io/streetfighter
+-   Documentation: https://tmd233.github.io/StreetFighter/
     
 ## unordered lists
 
